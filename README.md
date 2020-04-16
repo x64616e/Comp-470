@@ -15,6 +15,7 @@ Design and conduct experiments with mobile robots and to analyze and interpret d
 Work in a team-oriented, lab environment and present results in a professional manner.
 
 Textbook
+
 Title: Introduction to Autonomous Mobile Robots, Second Edition
 Author: Roland Siegwart, Illah Reza Nourbakhsh and Davide Scaramuzza
 Publisher: MIT Press
